@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 ### Hi there, I'm Joshua De Vera 👋
-### Full-Stack Mobile Developer at INFINIT SOLUTIONS🔭
+### Full-Stack Mobile Developer
 
 
 - 🔭 I can do both frontend and backend development
