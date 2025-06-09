@@ -32,6 +32,25 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
+### **Supplementary Skills**
+#### State Management
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Riverpod](https://img.shields.io/badge/riverpod-3670A0?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/provider-%234285F4.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/getx-%23FF6B00?style=for-the-badge&logo=flutter&logoColor=white)
+
+#### API Development
+![REST API](https://img.shields.io/badge/REST_API-%23563D7C.svg?style=for-the-badge&logo=json&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Node.js API](https://img.shields.io/badge/Node.js_API-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel API](https://img.shields.io/badge/Laravel_API-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+#### Testing & Tools
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
 ## 🌐 Socials  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/itsthecancer101)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jshdvr_/)  
