@@ -2,6 +2,8 @@
 ### Hi there, I'm Joshua De Vera 👋
 ### Full-Stack Mobile Developer
 
+![Profile Views](https://komarev.com/ghpvc/?username=blank122&color=blueviolet&style=flat)
+
 - 🔭 I'm passionate about building end-to-end solutions from mobile to backend
 - 🌱 Constantly learning and exploring new technologies
 - 💬 Ask me about cross-platform development or backend systems
@@ -31,11 +33,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-de-vera-3529a01aa/)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=blank122&show_icons=true&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blank122&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blank122&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blank122&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blank122&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=blank122&theme=radical"/>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=blank122&theme=radical&no-frame=false&no-bg=true&margin-w=4)
