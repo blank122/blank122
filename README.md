@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hi there, I'm Joshua De Vera 👋  
-### Full-Stack Mobile Developer  
+### Full-Stack Developer  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=blank122&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
@@ -13,6 +13,7 @@
 ### **Frontend & Mobile**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -22,6 +23,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
 
@@ -45,6 +48,7 @@
 ![Node.js API](https://img.shields.io/badge/Node.js_API-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel API](https://img.shields.io/badge/Laravel_API-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![.NET API](https://img.shields.io/badge/.NET_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 #### Testing & Tools
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
